@@ -1,0 +1,8 @@
+mediapipe==0.10.21
+opencv-python
+scikit-learn
+numpy
+pandas
+joblib
+tensorflow-cpu
+h5py
