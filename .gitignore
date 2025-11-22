@@ -31,3 +31,5 @@ sequences/
 # Logs
 logs/
 *.log
+# Generated artifacts
+archive/
